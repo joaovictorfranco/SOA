@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\Simulador de Algoritmo\Simulador de Algoritmo\bin\Debug\Simulador de Algoritmo.exe.config
+C:\Users\miche\source\repos\Simulador de Algoritmo\Simulador de Algoritmo\bin\Debug\Simulador de Algoritmo.exe
+C:\Users\miche\source\repos\Simulador de Algoritmo\Simulador de Algoritmo\bin\Debug\Simulador de Algoritmo.pdb
+C:\Users\miche\source\repos\Simulador de Algoritmo\Simulador de Algoritmo\obj\Debug\Simulador de Algoritmo.csprojAssemblyReference.cache
+C:\Users\miche\source\repos\Simulador de Algoritmo\Simulador de Algoritmo\obj\Debug\Simulador de Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\Simulador de Algoritmo\Simulador de Algoritmo\obj\Debug\Simulador de Algoritmo.exe
+C:\Users\miche\source\repos\Simulador de Algoritmo\Simulador de Algoritmo\obj\Debug\Simulador de Algoritmo.pdb
